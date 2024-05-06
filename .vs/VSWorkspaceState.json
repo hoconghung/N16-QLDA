@@ -2,11 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\WebBanDoGo",
-    "\\WebBanDoGo\\Areas",
-    "\\WebBanDoGo\\Areas\\Admin",
-    "\\WebBanDoGo\\Areas\\Admin\\Controllers",
-    "\\WebBanDoGo\\Models"
+    "\\WebBanDoGo\\ModelViews",
+    "\\WebBanDoGo\\ModelViews\\Extension",
+    "\\WebBanDoGo\\obj",
+    "\\WebBanDoGo\\obj\\Debug",
+    "\\WebBanDoGo\\obj\\Debug\\net5.0",
+    "\\WebBanDoGo\\obj\\Release",
+    "\\WebBanDoGo\\obj\\Release\\net5.0",
+    "\\WebBanDoGo\\Properties",
+    "\\WebBanDoGo\\Properties\\PublishProfiles"
   ],
-  "SelectedNode": "\\WebBanDoGo\\Startup.cs",
+  "SelectedNode": "\\WebBanDoGo\\ModelViews\\Extension",
   "PreviewInSolutionExplorer": false
 }
